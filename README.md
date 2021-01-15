@@ -8,6 +8,6 @@ This test was conducted as a part of the course A/B Testing (95-819), taught by 
 3. Employed a 'Difference in Differences' model to measure the causal effect of COVID-19 information when delivered via an infographic versus plain text.
 
 The following details have been uploaded in this github repository to give more context about the project and the testing methodology:
-1. Report [Report](Qualtrics_Survey_Questions.pdf)
-2. Presentation
-3. The qualtrics survey
+1. [Report](Report-AB-Test.pdf)
+2. [Presentation](AB-Test-for-COVID-Awareness-Presentation.pdf)
+3. [The qualtrics survey](Qualtrics_Survey_Questions.pdf)
