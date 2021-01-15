@@ -7,4 +7,7 @@ This test was conducted as a part of the course A/B Testing (95-819), taught by 
 2. Used Qualtrics to create a survey and randomize 130 respondents into treatment and control groups.
 3. Employed a 'Difference in Differences' model to measure the causal effect of COVID-19 information when delivered via an infographic versus plain text.
 
-A presentation and report has been uploaded in this repository to give more context about the project and the testing methodology. 
+The following details have been uploaded in this github repository to give more context about the project and the testing methodology:
+1. Report [Report](Qualtrics_Survey_Questions.pdf)
+2. Presentation
+3. The qualtrics survey
